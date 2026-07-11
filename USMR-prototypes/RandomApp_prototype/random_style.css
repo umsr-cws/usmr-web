@@ -1,0 +1,15 @@
+body{
+    color : hotpink;
+    text-align : center;
+    font-family : serif;
+    background-color : rgb(100, 226, 117);
+}
+#randBtn{
+    padding : 5px 7px;
+    font-size : 2em;
+    border-radius : 5px;
+    background-color :blueviolet;
+}
+#randLabel{
+    font-size : 3em;
+}
