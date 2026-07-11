@@ -1,0 +1,54 @@
+body{
+	background-color : lightgreen;
+}
+h1{
+	color : black;
+	text-align : center;
+    font-family : garamond;
+    font-size : 3em;
+    text-decoration-line: underline;
+    text-decoration-style : double;
+}
+#displayInfo{
+	color : black;
+    text-align : center;
+    font-family : calibri;
+    font-size : 1.3em;
+    font-weight : bold;
+}
+.input{
+	text-align : center;
+	padding : 5px 10px;
+    color : white;
+    background-color : hsl(578,100%,75%);
+    border-radius : 10px;
+}
+::placeholder{
+	color : white;
+}
+#btn{
+    padding : 5px 10px;
+    color : white;
+    background-color : hsl(578,100%,75%);
+    border-radius : 5px;
+    cursor : pointer;
+}
+#clcs{
+	color : black;
+    text-align : center;
+    font-family : calibri;
+    font-weight : bold;
+    font-size : 1.4em;
+    text-decoration-line : underline;
+}
+#inputdiv{
+	text-align : center;
+}
+.OffpgBtn{
+	text-align : left;
+    padding : 2px 8px;
+    color : white;
+    background-color : hsl(277,36%,46%);
+    border-radius : 10px;
+    cursor : pointer;
+}

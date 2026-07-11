@@ -1,0 +1,46 @@
+body{
+	background-color : lightgreen;
+}
+h1{
+	color : black;
+    text-align : center;
+    font-family : times;
+    font-size : 3em;
+	text-decoration-line: underline;
+    text-decoration-style : double;
+}
+#message{
+	color : black;
+    text-alignment : center;
+    font-family : calibri;
+    font-size : 1.5em;
+}
+.divs{
+	text-align : center;
+}
+.input{
+	text-align : center;
+	padding : 5px 10px;
+    color : white;
+    background-color : hsl(578,100%,75%);
+    border-radius : 10px;
+}
+::placeholder{
+	color : white;
+}
+#submitBtn{
+	text-align : center;
+    padding : 5px 10px;
+    color : white;
+    background-color : hsl(578,100%,75%);
+    border-radius : 5px;
+    cursor : pointer;
+}
+.OffpgBtn{
+	text-align : left;
+    padding : 2px 8px;
+    color : white;
+    background-color : hsl(277,36%,46%);
+    border-radius : 10px;
+    cursor : pointer;
+}
