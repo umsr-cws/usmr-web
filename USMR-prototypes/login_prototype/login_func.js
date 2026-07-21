@@ -17,7 +17,7 @@ function func(){
     }
     if(username.value==userName&&password.value==passWord)
     {
-    	document.write("Login Successful");
+    	document.location='../postlogin_prototype/postLogin.html';
     }
     if (username.value.trim() == "" || password.value.trim() == "") {
     	dispData.innerText = "One or more inputs are empty";
