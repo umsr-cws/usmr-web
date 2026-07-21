@@ -1,5 +1,5 @@
 body{
-	background-color : rgb(116, 226, 112);
+	background-color : lightgreen;
 }
 h1{
 	color : black;
@@ -20,7 +20,7 @@ h1{
 	text-align : center;
 	padding : 5px 10px;
     color : white;
-    background-color : hsl(184, 72%, 65%);
+    background-color : hsl(578,100%,75%);
     border-radius : 10px;
 }
 ::placeholder{
